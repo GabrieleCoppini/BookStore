@@ -17,7 +17,7 @@ To use BookStore, follow these steps:
              1. Use the search bar to search for books by genre.
              2. Click on a book to view its details.
 
-![Testo alternativo](https://github.com/GabrieleCoppini/BookStore/blob/23174b71b535b16b2ec6b6b46705b2cb681a7468/bookstor.png)
+![Testo alternativo](https://github.com/GabrieleCoppini/BookStore/blob/23174b71b535b16b2ec6b6b46705b2cb681a7468/bookstor.png) ![Testo alternativo](https://github.com/GabrieleCoppini/BookStore/blob/d10ce9d8f477aa94f3cd823163b31f96f1df7472/book2%20.png)
 
              
 ## Technologies Used
