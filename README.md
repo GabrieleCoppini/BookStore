@@ -1,15 +1,11 @@
-# 🚀 Welcome to your new awesome project!
+# BookStore App
 
-This project has been created using **webpack-cli**, you can now run
+An app to help you find books of your favorite genre.
+BookStore is a web application that allows users to search for books by genre and store their favorite books in a personal bookshelf.
 
-```
-npm run build
-```
+Click to visit the >>> [Website](https://gabrielecoppini.github.io/BookStore/)
 
-or
+## Features
 
-```
-yarn build
-```
-
-to bundle your application
+- Search for books by genre
+- Display book details, including title, author and description
